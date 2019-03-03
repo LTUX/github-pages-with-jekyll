@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Journey to a Mature UX Design Organization
 
-I'm glad you are here. I plan to talk about ...
+### *My personal evangelizing journey on growing a mature **UX Design** organiztion ...*
